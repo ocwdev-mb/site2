@@ -1,0 +1,27 @@
+{
+  "term": "Spring",
+  "year": "2027",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "site-2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "site-2"
+  },
+  "course_title": "site2",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "sdfsdf",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "1sf",
+  "learning_resource_types": [],
+  "site_uid": "46f80ffc-48b3-4223-9aa9-be2cc4c332b7",
+  "site_short_id": "site2"
+}
